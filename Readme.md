@@ -1,6 +1,6 @@
 # Biplane
 
-[![N|Solid](https://github.com/misterjulian/biplane/Biplane/BiplaneContent/Images/Plane1.png)](https://github.com/misterjulian/biplane)
+[![N|Solid](https://github.com/misterjulian/biplane/tree/master/Biplane/BiplaneContent/Images/Plane1.png)](https://github.com/misterjulian/biplane)
 
 Biplane is a simple game created as a university coding project.
 This is a collaborative project, and it has 2 participants (for now):
