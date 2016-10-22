@@ -1,7 +1,5 @@
 # Biplane
 
-[![N|Solid](https://github.com/misterjulian/biplane/tree/master/Biplane/BiplaneContent/Images/Plane1.png)](https://github.com/misterjulian/biplane)
-
 Biplane is a simple game created as a university coding project.
 This is a collaborative project, and it has 2 participants (for now):
 
@@ -17,7 +15,7 @@ Biplane uses XNA Framework for scene, content management and other:
 ### Installation
 
 Windows requires Windows 7 x86 to run.  
-Download and build the [latest version](https://github.com/misterjulian/biplane/master).
+Download and build the [latest version](https://github.com/misterjulian/biplane).
 
 ### Todos
 
