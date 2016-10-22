@@ -1,0 +1,26 @@
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Biplane.exe
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Biplane.pdb
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\obj\x86\Debug\Biplane.exe
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\obj\x86\Debug\Biplane.pdb
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Background1.xnb
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Background2.xnb
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Plane1.xnb
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Background3.xnb
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\target.xnb
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\bullet.xnb
+D:\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Background1.xnb
+D:\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Background2.xnb
+D:\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Plane1.xnb
+D:\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Background3.xnb
+D:\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\target.xnb
+D:\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\bullet.xnb
+D:\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Biplane.exe
+D:\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Biplane.pdb
+D:\XNA\Biplane\Biplane\Biplane\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\XNA\Biplane\Biplane\Biplane\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\XNA\Biplane\Biplane\Biplane\obj\x86\Debug\Biplane.exe
+D:\XNA\Biplane\Biplane\Biplane\obj\x86\Debug\Biplane.pdb
+D:\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Square.xnb
+D:\1b Personal\Projects\Games\XNA\Biplane\Biplane\Biplane\bin\x86\Debug\Content\Images\Square.xnb
